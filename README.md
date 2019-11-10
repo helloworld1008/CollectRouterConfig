@@ -12,8 +12,7 @@ This script requires paramiko python library to be installed
 
 ## Usage
 
-- Create a file named "IP_file" containing the IP address of routers you are working on
-- Give executable permissions to the script
+- Create a file named "IP_file" containing the IP address of routers you are working on. The file must be in the same directory where the script is located
 - Run the script
 
 ```bash
@@ -22,4 +21,8 @@ $ cat IP_file
 a.b.c.d
 192.168.200.106
 $  
+$ ls 
+CollectRouterConfig.py  IP_file
+$ 
 ```
+
