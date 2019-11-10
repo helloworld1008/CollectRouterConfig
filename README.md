@@ -9,3 +9,9 @@ CollectRouerConfig is a python-based utility for Linux machines that:
 ## Prerequisites
 
 This script requires paramiko python library to be installed
+
+## Usage
+
+- Create a file named "IP_file" containing the IP address of routers you are working on
+- Give executable permissions to the script
+- Run the script
