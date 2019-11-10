@@ -15,3 +15,11 @@ This script requires paramiko python library to be installed
 - Create a file named "IP_file" containing the IP address of routers you are working on
 - Give executable permissions to the script
 - Run the script
+
+```bash
+$ cat IP_file 
+192.168.200.101
+a.b.c.d
+192.168.200.106
+$  
+```
