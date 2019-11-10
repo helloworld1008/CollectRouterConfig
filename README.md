@@ -32,7 +32,7 @@ $
 ```
 
 - Run the script
-```bash
+```
 $ ./CollectRouterConfig.py 
 
 Initiating backup for 192.9.200.101
