@@ -49,3 +49,10 @@ Backup completed
 
 $
 ```
+
+The configuration files of each router will be generated in the same folder
+```
+$ ls
+192.9.200.101_config  192.9.200.106_config  CollectRouterConfig.py  IP_file
+$ 
+```
